@@ -102,7 +102,7 @@ export default function Page() {
                 <div className="text-gray-800">
                     <h2 className="text-2xl font-bold text-gray-800 mb-4">Prime Location in Darjeeling</h2>
                     <ul className="space-y-2 text-gray-700">
-                        <li><strong>10 minutes walk</strong> to Mall Road - the heart of Darjeeling's shopping and dining</li>
+                        <li><strong>10 minutes walk</strong> to Mall Road - the heart of Darjeeling&apos;s shopping and dining</li>
                         <li><strong>Walking distance</strong> to Himalayan Mountaineering Institute & Zoological Park</li>
                         <li><strong>Close proximity</strong> to Mahakal Mandir and Japanese Peace Pagoda</li>
                         <li><strong>11 km</strong> from Tiger Hill - famous for sunrise views over Kanchenjunga</li>
