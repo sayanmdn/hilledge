@@ -26,17 +26,17 @@ export default function Page() {
                             <div>
                                 <p className="font-semibold text-gray-700 mb-2">📞 Call us at:</p>
                                 <div className="space-y-2">
-                                    <a href="tel:01169270876" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
-                                        📱 011-6927-0876
+                                    <a href="tel:01169270876" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors text-blue-800">
+                                        📱 01169270876
                                     </a>
-                                    <a href="tel:+917047087672" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
-                                        📱 +91 7047-087-672
+                                    <a href="tel:+917047087672" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors text-blue-800">
+                                        📱 +91 7047087672
                                     </a>
-                                    <a href="tel:9429693871" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
-                                        📱 942-969-3871
+                                    <a href="tel:9429693871" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors text-blue-800">
+                                        📱 +91 9429693871
                                     </a>
-                                    <a href="tel:7001137041" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
-                                        📱 700-113-7041
+                                    <a href="tel:7001137041" className="block p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors text-blue-800">
+                                        📱 +91 7001137041
                                     </a>
                                 </div>
                             </div>
